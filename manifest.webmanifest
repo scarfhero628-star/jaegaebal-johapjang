@@ -1,0 +1,32 @@
+{
+  "name": "재개발 조합장",
+  "short_name": "조합장",
+  "description": "조합원 200명, 생각은 200가지. 재개발 조합장이 되어 추진위원회부터 입주식까지 이끄는 정치·협상 시뮬레이션. ▶ 누르면 바로 플레이",
+  "lang": "ko",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1526",
+  "theme_color": "#331219",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
